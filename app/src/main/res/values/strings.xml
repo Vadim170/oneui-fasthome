@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OneUI Fast Home</string>
+    <string name="xposed_description">One UI Home: faster swipe-to-home over a third-party launcher (stiffer home spring, no wait for recents scroll). HOME end target only.</string>
+    <string-array name="xposed_scope">
+        <item>com.sec.android.app.launcher</item>
+    </string-array>
+</resources>
